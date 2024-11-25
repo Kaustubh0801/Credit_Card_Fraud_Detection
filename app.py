@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 
 # Load the saved model
-model = joblib.load(r'C:\Users\kaust\Downloads\credit card_fraud_detection_model')
+model = joblib.load('credit_card_fraud_detection_model')
 
 # Streamlit app
 st.title("Fraud Detection System")
