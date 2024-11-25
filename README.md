@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection System
 
 ## Overview
-The Credit Card Fraud Detection System predicts whether a given transaction is genuine or fraudulent based on features extracted from the transaction data. This project utilizes a machine learning model trained on the Credit Card Fraud Detection Dataset from Kaggle.
+The Credit Card Fraud Detection System predicts whether a given transaction is genuine or fraudulent based on features extracted from the transaction data. This project utilizes a machine learning model trained on the [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle.
 
 The deployed web application allows users to input transaction details interactively and receive predictions about the likelihood of fraud in real time.
 
