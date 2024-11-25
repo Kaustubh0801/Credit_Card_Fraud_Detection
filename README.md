@@ -28,15 +28,15 @@ The application is deployed and accessible at the following link:
 
 ## Project Files
 - `app.py`: Contains the Streamlit web application code.
-- `credit_card_fraud_detection_model.pkl`: The trained machine learning model.
+- `credit card_fraud_detection_model`: The trained machine learning model.
 - `requirements.txt`: Python dependencies required to run the application.
-- `credit_card_fraud_detection.ipynb`: Jupyter Notebook with data exploration, preprocessing, and model training.
+- `creditcard_fraud_detection.ipynb`: Jupyter Notebook with data exploration, preprocessing, and model training.
 
 ## Model Training
 The model was trained using the following steps:
 
 ### Data Preprocessing:
-- Balanced the dataset using under-sampling and oversampling to address the class imbalance.
+- Balanced the dataset using under-sampling and over-sampling to address the class imbalance.
 - Scaled numerical features using StandardScaler.
 
 ### Model Selection:
